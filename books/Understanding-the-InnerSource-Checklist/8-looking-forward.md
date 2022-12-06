@@ -2,6 +2,8 @@
 
 <!-- During our journey, we have found a need for many tools. Some help facilitate discussion and some help with standardization and compliance; others help with measurement and reporting. Please join us at [InnerSourceCommons.org](http://innersourcecommons.org/tools) where we are working on the open source versions of these tools. -->
 
+様々な組織との関わりの中で、ビジネスにおいて多種多様なツールが求められている事が判明しました。
+
 <!-- One such tool is called Agora—for enterprise search. We are working toward an open system in which employees can easily add in diverse data sources. This will allow search across tools and domains. -->
 
 <!-- We also are discussing maturity levels at the Commons. The first pass has been in regard to GitHub and GitLab metrics. But we would like to measure reuse and collaboration across data sources. However we can do this only if we first capture the data. -->
