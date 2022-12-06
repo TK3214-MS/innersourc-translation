@@ -2,17 +2,17 @@
 
 <!-- During our journey, we have found a need for many tools. Some help facilitate discussion and some help with standardization and compliance; others help with measurement and reporting. Please join us at [InnerSourceCommons.org](http://innersourcecommons.org/tools) where we are working on the open source versions of these tools. -->
 
-様々な組織との関わりの中で、ビジネスにおいて多種多様なツールが求められている事が分かってきました。とあるツールは議論の場を設定するものであったり企業内標準化やコンプライアンス統制を行うものであったり、また別の場面では評価や報告に利用されているツールもありました。
+様々な組織との関わりの中で、ビジネスにおいて多種多様なツールが求められている事が分かってきました。とあるツールは議論の場を設定するものであったり企業内標準化やコンプライアンス統制を行うものであったり、また別の場面では評価や報告に利用されているツールもありました。こういったツールをオープンソース化しようとする我々の活動に興味がありましたら、[InnerSourceCommons.org](http://innersourcecommons.org/tools)へご参加下さい。
 
 <!-- One such tool is called Agora—for enterprise search. We are working toward an open system in which employees can easily add in diverse data sources. This will allow search across tools and domains. -->
-
-
-
+企業内検索ツール Agora を例に挙げましょう。我々は従業員が様々なデータソースにデータを追加出来るようにシステムのオープン化に取り組んでおり、このオープン化によりツール種別やドメインの垣根を超えた検索エクスペリエンスを提供出来るようになります。
 <!-- We also are discussing maturity levels at the Commons. The first pass has been in regard to GitHub and GitLab metrics. But we would like to measure reuse and collaboration across data sources. However we can do this only if we first capture the data. -->
-
+また、Commonsではサービスの成熟度合いについても議論が交わされており、最初に GitHub と GitLab メトリックに着手しています。
 ## Creating an Industry Standard
 
 <!-- We have created an organization called InnerSource Commons. Currently, we have more than 50 members, most from enterprise-sized organizations. One of our primary goals at the moment is to create an industry standard. We are working on creating pattern languages from stories that our members create. -->
+
+様々な組織との関わりの中で、ビジネスにおいて多種多様なツールが求められている事が分かってきました。とあるツールは議論の場を設定するものであったり企業内標準化やコンプライアンス統制を行うものであったり、また別の場面では評価や報告に利用されているツールもありました。こういったツールをオープンソース化しようとする我々の活動に興味がありましたら、[InnerSourceCommons.org](http://innersourcecommons.org/tools)へご参加下さい。
 
 <!-- We are spreading information in several ways: -->
 
